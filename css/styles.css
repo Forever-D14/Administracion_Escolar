@@ -95,6 +95,14 @@ body{
     border-radius: 0 3px 3px 0;
     user-select: none;
 }
+.subtitle{
+    font-family: var(--secundary-font);
+    color: var(--secondary-color);
+    font-size: 35px;
+    padding: 50px;
+
+    
+}
 
 .next{
     right: 0;
